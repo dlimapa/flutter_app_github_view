@@ -1,6 +1,6 @@
 # flutter_app_github_view
-
-A new Flutter project.
+.
+Aplicativo desenvolvido em Flutter para usar a API do Github e possibilitar ao usuário listas seus repositórios, issues e commits.
 
 ## Getting Started
 
